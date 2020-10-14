@@ -1,0 +1,15 @@
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\bin\Debug\Currency Apps.exe.config
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\bin\Debug\Currency Apps.exe
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\bin\Debug\Currency Apps.pdb
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.csprojAssemblyReference.cache
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\MainWindow.g.cs
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\App.g.cs
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.cache
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.lref
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\MainWindow.baml
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.g.resources
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency_Apps.Properties.Resources.resources
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.csproj.GenerateResource.cache
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.csproj.CoreCompileInputs.cache
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.exe
+C:\Users\ARY BAYU NURWICAKSON\source\repos\Currency Apps\Currency Apps\obj\Debug\Currency Apps.pdb
